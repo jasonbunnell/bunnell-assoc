@@ -1,0 +1,14 @@
+{
+  "name": "bunnell-assoc-material",
+  "version": "0.1.0",
+  "description": "Bunnell Assoc site using Material Design Framework",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bunnell"
+  ],
+  "author": "Jason Bunnell",
+  "license": "ISC"
+}
